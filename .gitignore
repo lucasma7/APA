@@ -1,0 +1,26 @@
+# Binários gerados
+programa
+*.out
+*.exe
+
+# Arquivos de build
+*.o
+*.obj
+
+# Diretórios de saída (todos exercícios)
+**/output/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+
+# VSCode (opcional)
+.vscode/
+
+# CLion / JetBrains (opcional)
+.idea/
+cmake-build-*/
