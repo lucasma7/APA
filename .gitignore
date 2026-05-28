@@ -24,3 +24,12 @@ Thumbs.db
 # CLion / JetBrains (opcional)
 .idea/
 cmake-build-*/
+
+# Files 
+*.pdf
+*.zip
+*.png
+*.jpeg
+*.ppt
+*.pptx
+*.docx
