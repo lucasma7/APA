@@ -1,0 +1,7 @@
+Instancia: le450_15c
+Vertices: 450
+Arestas: 16680
+Cores Solucao Inicial (DSatur): 23
+Cores Solucao Final (Apos ILS+VND): 20
+Target BKS: 15
+Tempo Computacional (ms): 345

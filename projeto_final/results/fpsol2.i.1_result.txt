@@ -1,0 +1,7 @@
+Instancia: fpsol2.i.1
+Vertices: 496
+Arestas: 11654
+Cores Solucao Inicial (DSatur): 65
+Cores Solucao Final (Apos ILS+VND): 65
+Target BKS: 65
+Tempo Computacional (ms): 0

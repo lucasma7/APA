@@ -1,0 +1,7 @@
+Instancia: mulsol.i.5
+Vertices: 186
+Arestas: 3973
+Cores Solucao Inicial (DSatur): 31
+Cores Solucao Final (Apos ILS+VND): 31
+Target BKS: 31
+Tempo Computacional (ms): 0

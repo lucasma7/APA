@@ -1,0 +1,7 @@
+Instancia: DSJC500.5.col
+Vertices: 500
+Arestas: 62624
+Cores Solucao Inicial (DSatur): 65
+Cores Solucao Final (Apos ILS+VND): 54
+Target BKS: 48
+Tempo Computacional (ms): 341
